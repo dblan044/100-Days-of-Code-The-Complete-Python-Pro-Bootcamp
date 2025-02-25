@@ -1,3 +1,5 @@
+#this .py was provided by the course instructor
+
 word_list = [
     'abruptly',
     'absurd',
